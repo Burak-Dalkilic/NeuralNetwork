@@ -1,0 +1,3 @@
+C:\\Users\\Asus\\Desktop\\NeuralNetwork\\linear_data_train.pickle.gz C:\\Users\\Asus\\Desktop\\NeuralNetwork\\linear_data_test.pickle.gz
+C:\\Users\\Asus\\Desktop\\NeuralNetwork\\mnist_01_train.pickle.gz C:\\Users\\Asus\\Desktop\\NeuralNetwork\\mnist_01_test.pickle.gz
+C:\\Users\\Asus\\Desktop\\NeuralNetwork\\moon_data_train.pickle.gz C:\\Users\\Asus\\Desktop\\NeuralNetwork\\moon_data_test.pickle.gz
